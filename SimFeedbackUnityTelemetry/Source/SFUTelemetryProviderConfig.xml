@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ProviderConfig>
+  <author>PEZZALUCIFER</author>
+  <version>v1.0</version>
+  <bannerImage>img\banner_sfu.png</bannerImage>
+  <iconImage>img\sfu.jpg</iconImage>
+  <shortName>sfu</shortName>
+</ProviderConfig>
